@@ -1,0 +1,6 @@
+build/
+build-*/
+out/
+*.png
+!shaders/**/*.png
+.DS_Store
